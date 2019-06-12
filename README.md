@@ -2,4 +2,4 @@
 
 ### Use Technology and Always Connect!
 
-!(/home/gmoore/Picture1.jpg)
+![CONNECT](/home/gmoore/Picture1.jpg)
